@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yuluomod",
+  "name": "YuLuo Mod",
+  "description": "Hypixel SkyBlock Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/yNXzfkWmTr",
+  "updateUrl": "",
+  "authorList": ["Discord : imagineyuluo"],
+  "credits": "Created By YuLuo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
