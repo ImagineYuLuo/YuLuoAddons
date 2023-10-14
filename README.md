@@ -11,6 +11,7 @@
   </a>
 </p>
 
+**Introduction**
  ```
   Hello everyone, 
   This addons is my first minecraft 1.8.9 mod.
@@ -22,4 +23,10 @@
   In the end hopefully you like this <3
 
   - YuLuo
+  ```
+  **Notice**
+  ```
+  Setup : Using Java SE 8 with gradle 4.0
+  Code Program : Intellij 2023.2
+  Reference : SkyblockAddons, Skytils
   ```
