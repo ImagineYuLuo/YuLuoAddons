@@ -26,7 +26,7 @@
   ```
   **Notice**
   ```
-  Setup : Using Java SE 8 with gradle 4.0
+  Setup : Using Java SE 8 with Gradle 4.0
   Code Program : Intellij 2023.2
   Reference : SkyblockAddons, Skytils
   ```
